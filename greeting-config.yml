@@ -10,3 +10,8 @@ logging:
   level:
     io:
       pivotal: DEBUG
+
+greeting:
+  displayFortune: false
+
+quoteServiceURL: http://localhost:8080/quote
